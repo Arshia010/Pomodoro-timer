@@ -1,7 +1,7 @@
 import sys
 import time
 import subprocess
-
+ 
 WORK_MINUTES=25
 BREAK_MINTUES=5
 
